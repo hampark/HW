@@ -1,16 +1,1 @@
-hello world
-hello world2
-<<<<<<< HEAD
-<<<<<<< HEAD
-Change20211006
-<<<<<<< HEAD
-Main1
-=======
-Branch1
->>>>>>> Branch1
-=======
-Change20211006
->>>>>>> parent of 84d9d43 (Main1)
-=======
-Change20211006
->>>>>>> parent of 84d9d43 (Main1)
+1
